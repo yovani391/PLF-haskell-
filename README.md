@@ -7,7 +7,7 @@ There are assignments class for unit
 --> Unit II: Programación funcional
 
 -- 
---  listas
+-- Code listas
 --
 --  Ejercicicio 1:  firstToEnd
 firstToEnd::([x]) -> [x] 
